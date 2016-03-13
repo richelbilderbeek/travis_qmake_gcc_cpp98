@@ -1,8 +1,4 @@
 sudo: false
 language: cpp
-
-compiler:
-  - gcc
-
-script: 
- - ./build.sh
+compiler:gcc
+script: ./build.sh
