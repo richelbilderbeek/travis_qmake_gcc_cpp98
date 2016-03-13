@@ -13,4 +13,4 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Source: one single file, `main.cpp`
 
 More complex builds:
- * Code coverage: `codecov`: [travis_qmake_gcc_cpp98](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98)
+ * Code coverage: `codecov`: [travis_qmake_gcc_cpp98_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_gcov)
