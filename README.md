@@ -24,5 +24,6 @@ More complex builds:
  * Use the SFML library: [travis_qmake_gcc_cpp98_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_sfml)
  * Use the Urho3D library: [travis_qmake_gcc_cpp98_urho3d](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_urho3d)
  * Use the Wt library: [travis_qmake_gcc_cpp98_wt](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_wt)
- * Code coverage: `codecov`: [travis_qmake_gcc_cpp98_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_gcov)
+ * Code coverage: `gcov`: [travis_qmake_gcc_cpp98_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_gcov)
+ * Profiling: `gprof`: [travis_qmake_gcc_cpp98_gprof](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_gprof)
  * UI testing: `ldtp`: [travis_qmake_gcc_cpp98_ldtp](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_ldtp)
