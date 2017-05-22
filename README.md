@@ -18,6 +18,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Source: one single file, `main.cpp`
 
 More complex builds:
+
  * Use of C++11: [travis_qmake_gcc_cpp11](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11)
  * Use of C++14: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14)
  * Use the Boost libraries: [travis_qmake_gcc_cpp98_boost](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_boost)
@@ -30,3 +31,12 @@ More complex builds:
  * Code coverage: `gcov`: [travis_qmake_gcc_cpp98_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_gcov)
  * Profiling: `gprof`: [travis_qmake_gcc_cpp98_gprof](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_gprof)
  * UI testing: `ldtp`: [travis_qmake_gcc_cpp98_ldtp](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_ldtp)
+
+Equally complex builds:
+
+ * Use of `CMake` instead of `qmake`: [travis_cmake_gcc_cpp98](https://www.github.com/richelbilderbeek/travis_cmake_gcc_cpp98)
+ * Use of C instead of C++: [travis_cmake_gcc_c98](https://www.github.com/richelbilderbeek/travis_cmake_gcc_c98)
+
+Less complex builds:
+
+ * [none]
