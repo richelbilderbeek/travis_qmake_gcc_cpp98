@@ -4,6 +4,8 @@
 
 [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98)
 
+![GitHub Actions](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98/workflows/R-CMD-check/badge.svg?branch=master)
+
 This GitHub is part of:
 
  * [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
