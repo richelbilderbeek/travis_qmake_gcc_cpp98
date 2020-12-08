@@ -21,6 +21,8 @@ More complex builds:
 
  * Use of C++11: [travis_qmake_gcc_cpp11](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11)
  * Use of C++14: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14)
+ * Use of C++17: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17)
+ * Use of C++20: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp20)
  * Use the Boost libraries: [travis_qmake_gcc_cpp98_boost](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_boost)
  * Use the Bio++ library: [travis_qmake_gcc_cpp98_bpp](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_bpp)
  * Use the Qt library: [travis_qmake_gcc_cpp98_qt](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_qt)
