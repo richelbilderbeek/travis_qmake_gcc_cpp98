@@ -1,8 +1,8 @@
 # travis_qmake_gcc_cpp98
 
-[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.com)
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98)
+[![Build Status](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp98.svg?branch=master)](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp98)
 
 ![GitHub Actions](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98/workflows/check/badge.svg?branch=master)
 
